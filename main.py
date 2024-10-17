@@ -1,5 +1,4 @@
-import requests
-import pillow
-
 print('Hello World')
-print('nurik')
+print('nurik') 
+
+print('hello nurik')
